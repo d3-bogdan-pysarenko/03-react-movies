@@ -1,5 +1,5 @@
 {
-  "name": "02-react-cafe",
+  "name": "03-react-movies",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +13,9 @@
   "dependencies": {
     "modern-normalize": "^3.0.1",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.7",
+    "axios": "^1.18.1",
+    "react-hot-toast": "^2.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.29.7",
